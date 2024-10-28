@@ -135,7 +135,7 @@ Berikut adalah format data yang digunakan untuk postingan:
         ]
         ```
 
-### 4. DELETE (Hapus Buku)
+### 5. DELETE (Hapus Buku)
 
 - **Endpoint**: `/book/:id/delete`
 - **Method**: `DELETE`
